@@ -25,9 +25,9 @@ This project demonstrates how to implement caching in a Node.js and Express appl
 
 ## 🖼️ Screenshots
 
-- Before caching the request took 2.61 seconds.
+- Before caching the response took 2.61 seconds.
   ![Page](./project_screenshots/before.png)
-- After caching the request took 822 milliseconds.
+- After caching the response took 822 milliseconds.
   ![Page](./project_screenshots/after.png)
 
 ## 📦 Installation
